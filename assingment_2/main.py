@@ -8,5 +8,8 @@ class Rectangle:
 
 
 shape = Rectangle(10,15)
+print("Creating a Rectangle(10, 5)")
+
+print("Iterating over the rectangle:")
 for i in shape:
     print(i)
