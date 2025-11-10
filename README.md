@@ -1,8 +1,3 @@
-Here is a single `README.md` file to be placed at the root of your `accuknox_assingment` directory.
-
------
-
-````markdown
 # AccuKnox Technical Assignments
 
 This repository contains solutions for the technical assessment, divided into two parts: Django Signals (Assignment 1) and a custom Python class (Assignment 2).
@@ -19,8 +14,6 @@ accuknox_assingment/
 └── assingment_2/          # Python Script (Custom Class)
     └── main.py
 ````
-
------
 
 ## Assignment 1: Django Signals
 
